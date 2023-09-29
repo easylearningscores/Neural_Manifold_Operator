@@ -160,7 +160,7 @@ class Exp:
            
 
             train_loss = np.average(train_loss)
-            # 训练SWE时候启动
+          
             values = 1
             train_loss = train_loss * values
             
@@ -215,7 +215,7 @@ class Exp:
 
         l1_error = torch.nn.L1Loss()(torch.tensor(preds), torch.tensor(trues)).item()
         rel_l1_err = relative_l1_error(torch.tensor(trues), torch.tensor(preds)).item()
-        # 计算RMSE
+     
         rmse = torch.sqrt(torch.mean((torch.tensor(preds) - torch.tensor(trues)) ** 2))
         rmse = rmse.item()
         print_log('RMSE: {:.8f}, L2 error: {:.8f}, Relative L2 error: {:.8f},'.format(rmse, 
@@ -247,7 +247,7 @@ class Exp:
         relative_l2_error = l2_error / torch.nn.MSELoss()(torch.tensor(trues), torch.zeros_like(torch.tensor(trues))).item()
 
 
-        # 计算RMSE
+ 
         rmse = torch.sqrt(torch.mean((torch.tensor(preds) - torch.tensor(trues)) ** 2))
         rmse = rmse.item()
         
