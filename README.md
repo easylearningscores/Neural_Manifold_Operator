@@ -1,7 +1,7 @@
 # Neural-Manifold-Operator experimental records
 
 ## Baseline
-经典视觉模型 
+
 
 ## Neural Manifold Operator’s main table
 
@@ -47,8 +47,7 @@ The figure shows the training process curve and visualization, using [5, 2, 128,
   <img src="image/nspreds.gif" width="400"/>
 </p>
 
-#### 对比实验 
-以下是三种模型的均方误差（MSE），以科学计数法表示：
+
 
 | Model | MSE              |
 |-------|-----------------|
@@ -56,13 +55,13 @@ The figure shows the training process curve and visualization, using [5, 2, 128,
 | FNO   | 6.4911097e-02    |
 | LSM   | 8.1996672e-02    |
 
-#### 重建实验
 
-NMO 重建结果  MSE: 2.355240894758026e-06
 
-#### ID维度对模型结果的影响
+NMO   MSE: 2.355240894758026e-06
 
-| ID  维度 | RMSE     |
+
+
+| ID   | RMSE     |
 |----------|----------|
 | 2        | 0.2631   |
 | 4        | 0.2498   |
@@ -75,7 +74,6 @@ NMO 重建结果  MSE: 2.355240894758026e-06
 | 512      | 0.3338   |
 | 768      | 0.3527   |
 
-这个表格列出了不同维度下使用NS方程模拟结果的MSE值。
 
 ### 2D Shallow-water equation
 The figure shows the training process curve and visualization, using [10, 1, 128, 128] prediction [90, 1, 128, 128]
@@ -95,7 +93,6 @@ The figure shows the training process curve and visualization, using [10, 1, 128
 
 ### (1). Input_frames, output_frames: torch.Size([50, 1, 128, 128])  torch.Size([50, 1, 128, 128])
 
-第一行代表输入序列，第二行代表真实序列，第三行代表NMO预测序列，第四行代表误差值，只展示偶数帧
 ![2dswe](image/2dswe.png)
 
 
@@ -127,9 +124,4 @@ The figure shows the training process curve and visualization, using [10, 1, 128
 ![2dswe](image/dr.png)
 
 
-### Spherical Shallow Water equation
-The figure shows the training process curve and visualization, using [15, 1, 256, 128] prediction [15, 1, 256, 128]
-![2dswe](image/Kp_swe.png)
-
- 
 
