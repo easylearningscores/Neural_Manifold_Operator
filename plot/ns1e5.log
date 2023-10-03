@@ -1,0 +1,299 @@
+2023-07-07 19:09:26,174 - RMSE: 0.9283766, L2 error: 0.8618830, Relative L2 error: 0.5187792,
+2023-07-07 19:09:28,233 - Epoch: 1 | Train Loss: 0.0043 Vali Loss: 0.0034
+
+2023-07-07 19:09:46,033 - RMSE: 0.6381841, L2 error: 0.4072790, Relative L2 error: 0.2451468,
+2023-07-07 19:09:46,036 - Epoch: 2 | Train Loss: 0.0027 Vali Loss: 0.0022
+
+2023-07-07 19:10:03,799 - RMSE: 0.5594956, L2 error: 0.3130353, Relative L2 error: 0.1884203,
+2023-07-07 19:10:03,804 - Epoch: 3 | Train Loss: 0.0020 Vali Loss: 0.0019
+
+2023-07-07 19:10:21,586 - RMSE: 0.5162156, L2 error: 0.2664786, Relative L2 error: 0.1603971,
+2023-07-07 19:10:21,589 - Epoch: 4 | Train Loss: 0.0018 Vali Loss: 0.0017
+
+2023-07-07 19:10:39,387 - RMSE: 0.4587609, L2 error: 0.2104616, Relative L2 error: 0.1266797,
+2023-07-07 19:10:39,391 - Epoch: 5 | Train Loss: 0.0016 Vali Loss: 0.0015
+
+2023-07-07 19:10:57,274 - RMSE: 0.4334574, L2 error: 0.1878853, Relative L2 error: 0.1130907,
+2023-07-07 19:10:57,277 - Epoch: 6 | Train Loss: 0.0015 Vali Loss: 0.0014
+
+2023-07-07 19:11:15,139 - RMSE: 0.4248281, L2 error: 0.1804789, Relative L2 error: 0.1086327,
+2023-07-07 19:11:15,151 - Epoch: 7 | Train Loss: 0.0014 Vali Loss: 0.0014
+
+2023-07-07 19:11:33,072 - RMSE: 0.4359611, L2 error: 0.1900621, Relative L2 error: 0.1144010,
+2023-07-07 19:11:33,076 - Epoch: 8 | Train Loss: 0.0014 Vali Loss: 0.0014
+
+2023-07-07 19:11:50,693 - RMSE: 0.3969162, L2 error: 0.1575425, Relative L2 error: 0.0948270,
+2023-07-07 19:11:50,697 - Epoch: 9 | Train Loss: 0.0013 Vali Loss: 0.0013
+
+2023-07-07 19:12:08,671 - RMSE: 0.3773477, L2 error: 0.1423913, Relative L2 error: 0.0857073,
+2023-07-07 19:12:08,675 - Epoch: 10 | Train Loss: 0.0013 Vali Loss: 0.0013
+
+2023-07-07 19:12:26,559 - RMSE: 0.4610417, L2 error: 0.2125595, Relative L2 error: 0.1279425,
+2023-07-07 19:12:26,570 - Epoch: 11 | Train Loss: 0.0013 Vali Loss: 0.0016
+
+2023-07-07 19:12:44,158 - RMSE: 0.3913930, L2 error: 0.1531885, Relative L2 error: 0.0922063,
+2023-07-07 19:12:44,161 - Epoch: 12 | Train Loss: 0.0013 Vali Loss: 0.0013
+
+2023-07-07 19:13:01,671 - RMSE: 0.3696647, L2 error: 0.1366520, Relative L2 error: 0.0822527,
+2023-07-07 19:13:01,675 - Epoch: 13 | Train Loss: 0.0012 Vali Loss: 0.0012
+
+2023-07-07 19:13:19,569 - RMSE: 0.4281860, L2 error: 0.1833432, Relative L2 error: 0.1103568,
+2023-07-07 19:13:19,574 - Epoch: 14 | Train Loss: 0.0012 Vali Loss: 0.0014
+
+2023-07-07 19:13:37,161 - RMSE: 0.3711491, L2 error: 0.1377516, Relative L2 error: 0.0829146,
+2023-07-07 19:13:37,165 - Epoch: 15 | Train Loss: 0.0012 Vali Loss: 0.0013
+
+2023-07-07 19:13:54,763 - RMSE: 0.3889352, L2 error: 0.1512706, Relative L2 error: 0.0910519,
+2023-07-07 19:13:54,768 - Epoch: 16 | Train Loss: 0.0012 Vali Loss: 0.0013
+
+2023-07-07 19:14:12,560 - RMSE: 0.3576057, L2 error: 0.1278818, Relative L2 error: 0.0769738,
+2023-07-07 19:14:12,565 - Epoch: 17 | Train Loss: 0.0012 Vali Loss: 0.0012
+
+2023-07-07 19:14:30,557 - RMSE: 0.3721374, L2 error: 0.1384862, Relative L2 error: 0.0833568,
+2023-07-07 19:14:30,560 - Epoch: 18 | Train Loss: 0.0012 Vali Loss: 0.0012
+
+2023-07-07 19:14:48,019 - RMSE: 0.3784842, L2 error: 0.1432503, Relative L2 error: 0.0862243,
+2023-07-07 19:14:48,027 - Epoch: 19 | Train Loss: 0.0012 Vali Loss: 0.0013
+
+2023-07-07 19:15:05,635 - RMSE: 0.4291593, L2 error: 0.1841777, Relative L2 error: 0.1108591,
+2023-07-07 19:15:05,639 - Epoch: 20 | Train Loss: 0.0011 Vali Loss: 0.0015
+
+2023-07-07 19:15:23,165 - RMSE: 0.3564111, L2 error: 0.1270289, Relative L2 error: 0.0764604,
+2023-07-07 19:15:23,175 - Epoch: 21 | Train Loss: 0.0011 Vali Loss: 0.0013
+
+2023-07-07 19:15:40,779 - RMSE: 0.3610058, L2 error: 0.1303252, Relative L2 error: 0.0784445,
+2023-07-07 19:15:40,788 - Epoch: 22 | Train Loss: 0.0011 Vali Loss: 0.0012
+
+2023-07-07 19:15:58,390 - RMSE: 0.4268810, L2 error: 0.1822274, Relative L2 error: 0.1096852,
+2023-07-07 19:15:58,395 - Epoch: 23 | Train Loss: 0.0011 Vali Loss: 0.0014
+
+2023-07-07 19:16:15,949 - RMSE: 0.3354853, L2 error: 0.1125504, Relative L2 error: 0.0677456,
+2023-07-07 19:16:15,960 - Epoch: 24 | Train Loss: 0.0011 Vali Loss: 0.0012
+
+2023-07-07 19:16:33,555 - RMSE: 0.3877117, L2 error: 0.1503204, Relative L2 error: 0.0904799,
+2023-07-07 19:16:33,559 - Epoch: 25 | Train Loss: 0.0011 Vali Loss: 0.0014
+
+2023-07-07 19:16:51,098 - RMSE: 0.4860947, L2 error: 0.2362881, Relative L2 error: 0.1422250,
+2023-07-07 19:16:51,103 - Epoch: 26 | Train Loss: 0.0011 Vali Loss: 0.0016
+
+2023-07-07 19:17:08,703 - RMSE: 0.4081787, L2 error: 0.1666098, Relative L2 error: 0.1002847,
+2023-07-07 19:17:08,712 - Epoch: 27 | Train Loss: 0.0011 Vali Loss: 0.0013
+
+2023-07-07 19:17:26,302 - RMSE: 0.3358266, L2 error: 0.1127795, Relative L2 error: 0.0678835,
+2023-07-07 19:17:26,306 - Epoch: 28 | Train Loss: 0.0011 Vali Loss: 0.0012
+
+2023-07-07 19:17:44,190 - RMSE: 0.3308614, L2 error: 0.1094693, Relative L2 error: 0.0658911,
+2023-07-07 19:17:44,194 - Epoch: 29 | Train Loss: 0.0011 Vali Loss: 0.0011
+
+2023-07-07 19:18:02,070 - RMSE: 0.3635015, L2 error: 0.1321333, Relative L2 error: 0.0795329,
+2023-07-07 19:18:02,073 - Epoch: 30 | Train Loss: 0.0010 Vali Loss: 0.0013
+
+2023-07-07 19:18:19,664 - RMSE: 0.3104742, L2 error: 0.0963942, Relative L2 error: 0.0580210,
+2023-07-07 19:18:19,670 - Epoch: 31 | Train Loss: 0.0011 Vali Loss: 0.0010
+
+2023-07-07 19:18:37,602 - RMSE: 0.3309903, L2 error: 0.1095546, Relative L2 error: 0.0659424,
+2023-07-07 19:18:37,607 - Epoch: 32 | Train Loss: 0.0010 Vali Loss: 0.0011
+
+2023-07-07 19:18:55,295 - RMSE: 0.3332173, L2 error: 0.1110337, Relative L2 error: 0.0668327,
+2023-07-07 19:18:55,299 - Epoch: 33 | Train Loss: 0.0010 Vali Loss: 0.0012
+
+2023-07-07 19:19:12,906 - RMSE: 0.3266176, L2 error: 0.1066791, Relative L2 error: 0.0642116,
+2023-07-07 19:19:12,911 - Epoch: 34 | Train Loss: 0.0010 Vali Loss: 0.0011
+
+2023-07-07 19:19:30,336 - RMSE: 0.3213497, L2 error: 0.1032656, Relative L2 error: 0.0621570,
+2023-07-07 19:19:30,346 - Epoch: 35 | Train Loss: 0.0010 Vali Loss: 0.0011
+
+2023-07-07 19:19:48,025 - RMSE: 0.3420958, L2 error: 0.1170295, Relative L2 error: 0.0704417,
+2023-07-07 19:19:48,035 - Epoch: 36 | Train Loss: 0.0010 Vali Loss: 0.0011
+
+2023-07-07 19:20:05,529 - RMSE: 0.3193279, L2 error: 0.1019703, Relative L2 error: 0.0613773,
+2023-07-07 19:20:05,539 - Epoch: 37 | Train Loss: 0.0010 Vali Loss: 0.0011
+
+2023-07-07 19:20:23,067 - RMSE: 0.3291647, L2 error: 0.1083494, Relative L2 error: 0.0652170,
+2023-07-07 19:20:23,071 - Epoch: 38 | Train Loss: 0.0010 Vali Loss: 0.0012
+
+2023-07-07 19:20:40,640 - RMSE: 0.3299728, L2 error: 0.1088820, Relative L2 error: 0.0655376,
+2023-07-07 19:20:40,645 - Epoch: 39 | Train Loss: 0.0009 Vali Loss: 0.0011
+
+2023-07-07 19:20:58,152 - RMSE: 0.3028210, L2 error: 0.0917005, Relative L2 error: 0.0551958,
+2023-07-07 19:20:58,156 - Epoch: 40 | Train Loss: 0.0009 Vali Loss: 0.0010
+
+2023-07-07 19:21:16,032 - RMSE: 0.2964374, L2 error: 0.0878751, Relative L2 error: 0.0528933,
+2023-07-07 19:21:16,042 - Epoch: 41 | Train Loss: 0.0009 Vali Loss: 0.0010
+
+2023-07-07 19:21:34,068 - RMSE: 0.3194559, L2 error: 0.1020521, Relative L2 error: 0.0614266,
+2023-07-07 19:21:34,077 - Epoch: 42 | Train Loss: 0.0009 Vali Loss: 0.0011
+
+2023-07-07 19:21:51,664 - RMSE: 0.3205498, L2 error: 0.1027522, Relative L2 error: 0.0618480,
+2023-07-07 19:21:51,667 - Epoch: 43 | Train Loss: 0.0009 Vali Loss: 0.0011
+
+2023-07-07 19:22:09,239 - RMSE: 0.3178975, L2 error: 0.1010588, Relative L2 error: 0.0608287,
+2023-07-07 19:22:09,244 - Epoch: 44 | Train Loss: 0.0009 Vali Loss: 0.0010
+
+2023-07-07 19:22:26,861 - RMSE: 0.3065725, L2 error: 0.0939867, Relative L2 error: 0.0565719,
+2023-07-07 19:22:26,870 - Epoch: 45 | Train Loss: 0.0009 Vali Loss: 0.0010
+
+2023-07-07 19:22:44,582 - RMSE: 0.2893847, L2 error: 0.0837435, Relative L2 error: 0.0504064,
+2023-07-07 19:22:44,586 - Epoch: 46 | Train Loss: 0.0009 Vali Loss: 0.0010
+
+2023-07-07 19:23:02,635 - RMSE: 0.3000239, L2 error: 0.0900143, Relative L2 error: 0.0541809,
+2023-07-07 19:23:02,640 - Epoch: 47 | Train Loss: 0.0009 Vali Loss: 0.0010
+
+2023-07-07 19:23:20,168 - RMSE: 0.2834754, L2 error: 0.0803583, Relative L2 error: 0.0483688,
+2023-07-07 19:23:20,172 - Epoch: 48 | Train Loss: 0.0009 Vali Loss: 0.0009
+
+2023-07-07 19:23:38,053 - RMSE: 0.3684118, L2 error: 0.1357273, Relative L2 error: 0.0816961,
+2023-07-07 19:23:38,063 - Epoch: 49 | Train Loss: 0.0009 Vali Loss: 0.0012
+
+2023-07-07 19:23:55,661 - RMSE: 0.3055259, L2 error: 0.0933461, Relative L2 error: 0.0561863,
+2023-07-07 19:23:55,671 - Epoch: 50 | Train Loss: 0.0009 Vali Loss: 0.0010
+
+2023-07-07 19:24:13,317 - RMSE: 0.2851217, L2 error: 0.0812944, Relative L2 error: 0.0489322,
+2023-07-07 19:24:13,320 - Epoch: 51 | Train Loss: 0.0009 Vali Loss: 0.0009
+
+2023-07-07 19:24:30,846 - RMSE: 0.2904028, L2 error: 0.0843338, Relative L2 error: 0.0507617,
+2023-07-07 19:24:30,851 - Epoch: 52 | Train Loss: 0.0009 Vali Loss: 0.0010
+
+2023-07-07 19:24:48,460 - RMSE: 0.2802483, L2 error: 0.0785391, Relative L2 error: 0.0472738,
+2023-07-07 19:24:48,470 - Epoch: 53 | Train Loss: 0.0008 Vali Loss: 0.0009
+
+2023-07-07 19:25:06,204 - RMSE: 0.2869066, L2 error: 0.0823154, Relative L2 error: 0.0495468,
+2023-07-07 19:25:06,210 - Epoch: 54 | Train Loss: 0.0008 Vali Loss: 0.0009
+
+2023-07-07 19:25:23,987 - RMSE: 0.2864203, L2 error: 0.0820366, Relative L2 error: 0.0493790,
+2023-07-07 19:25:23,991 - Epoch: 55 | Train Loss: 0.0008 Vali Loss: 0.0009
+
+2023-07-07 19:25:41,539 - RMSE: 0.2770023, L2 error: 0.0767303, Relative L2 error: 0.0461850,
+2023-07-07 19:25:41,550 - Epoch: 56 | Train Loss: 0.0008 Vali Loss: 0.0009
+
+2023-07-07 19:25:59,440 - RMSE: 0.2844061, L2 error: 0.0808868, Relative L2 error: 0.0486869,
+2023-07-07 19:25:59,449 - Epoch: 57 | Train Loss: 0.0008 Vali Loss: 0.0009
+
+2023-07-07 19:26:17,034 - RMSE: 0.2746011, L2 error: 0.0754058, Relative L2 error: 0.0453878,
+2023-07-07 19:26:17,037 - Epoch: 58 | Train Loss: 0.0008 Vali Loss: 0.0009
+
+2023-07-07 19:26:35,009 - RMSE: 0.2747863, L2 error: 0.0755075, Relative L2 error: 0.0454490,
+2023-07-07 19:26:35,013 - Epoch: 59 | Train Loss: 0.0008 Vali Loss: 0.0009
+
+2023-07-07 19:26:52,905 - RMSE: 0.2845535, L2 error: 0.0809707, Relative L2 error: 0.0487374,
+2023-07-07 19:26:52,910 - Epoch: 60 | Train Loss: 0.0008 Vali Loss: 0.0009
+
+2023-07-07 19:27:10,580 - RMSE: 0.2964801, L2 error: 0.0879004, Relative L2 error: 0.0529085,
+2023-07-07 19:27:10,586 - Epoch: 61 | Train Loss: 0.0008 Vali Loss: 0.0009
+
+2023-07-07 19:27:28,246 - RMSE: 0.3181089, L2 error: 0.1011933, Relative L2 error: 0.0609096,
+2023-07-07 19:27:28,250 - Epoch: 62 | Train Loss: 0.0007 Vali Loss: 0.0010
+
+2023-07-07 19:27:46,177 - RMSE: 0.2804405, L2 error: 0.0786469, Relative L2 error: 0.0473386,
+2023-07-07 19:27:46,182 - Epoch: 63 | Train Loss: 0.0007 Vali Loss: 0.0009
+
+2023-07-07 19:28:03,825 - RMSE: 0.2863775, L2 error: 0.0820120, Relative L2 error: 0.0493642,
+2023-07-07 19:28:03,830 - Epoch: 64 | Train Loss: 0.0007 Vali Loss: 0.0009
+
+2023-07-07 19:28:21,456 - RMSE: 0.2607204, L2 error: 0.0679751, Relative L2 error: 0.0409152,
+2023-07-07 19:28:21,459 - Epoch: 65 | Train Loss: 0.0007 Vali Loss: 0.0008
+
+2023-07-07 19:28:39,553 - RMSE: 0.2707403, L2 error: 0.0733003, Relative L2 error: 0.0441205,
+2023-07-07 19:28:39,556 - Epoch: 66 | Train Loss: 0.0007 Vali Loss: 0.0009
+
+2023-07-07 19:28:57,245 - RMSE: 0.2691691, L2 error: 0.0724520, Relative L2 error: 0.0436098,
+2023-07-07 19:28:57,256 - Epoch: 67 | Train Loss: 0.0007 Vali Loss: 0.0008
+
+2023-07-07 19:29:14,930 - RMSE: 0.2684383, L2 error: 0.0720591, Relative L2 error: 0.0433734,
+2023-07-07 19:29:14,934 - Epoch: 68 | Train Loss: 0.0007 Vali Loss: 0.0008
+
+2023-07-07 19:29:32,946 - RMSE: 0.2725249, L2 error: 0.0742698, Relative L2 error: 0.0447040,
+2023-07-07 19:29:32,951 - Epoch: 69 | Train Loss: 0.0007 Vali Loss: 0.0009
+
+2023-07-07 19:29:50,467 - RMSE: 0.2609586, L2 error: 0.0680994, Relative L2 error: 0.0409900,
+2023-07-07 19:29:50,471 - Epoch: 70 | Train Loss: 0.0007 Vali Loss: 0.0008
+
+2023-07-07 19:30:08,474 - RMSE: 0.2572859, L2 error: 0.0661960, Relative L2 error: 0.0398443,
+2023-07-07 19:30:08,477 - Epoch: 71 | Train Loss: 0.0007 Vali Loss: 0.0008
+
+2023-07-07 19:30:26,567 - RMSE: 0.2589976, L2 error: 0.0670798, Relative L2 error: 0.0403762,
+2023-07-07 19:30:26,575 - Epoch: 72 | Train Loss: 0.0006 Vali Loss: 0.0008
+
+2023-07-07 19:30:44,536 - RMSE: 0.2586881, L2 error: 0.0669195, Relative L2 error: 0.0402798,
+2023-07-07 19:30:44,540 - Epoch: 73 | Train Loss: 0.0006 Vali Loss: 0.0008
+
+2023-07-07 19:31:02,280 - RMSE: 0.2628693, L2 error: 0.0691003, Relative L2 error: 0.0415924,
+2023-07-07 19:31:02,284 - Epoch: 74 | Train Loss: 0.0006 Vali Loss: 0.0008
+
+2023-07-07 19:31:20,038 - RMSE: 0.2567897, L2 error: 0.0659410, Relative L2 error: 0.0396908,
+2023-07-07 19:31:20,042 - Epoch: 75 | Train Loss: 0.0006 Vali Loss: 0.0008
+
+2023-07-07 19:31:37,964 - RMSE: 0.2536398, L2 error: 0.0643332, Relative L2 error: 0.0387230,
+2023-07-07 19:31:37,968 - Epoch: 76 | Train Loss: 0.0006 Vali Loss: 0.0008
+
+2023-07-07 19:31:55,915 - RMSE: 0.2633932, L2 error: 0.0693760, Relative L2 error: 0.0417584,
+2023-07-07 19:31:55,925 - Epoch: 77 | Train Loss: 0.0006 Vali Loss: 0.0008
+
+2023-07-07 19:32:13,525 - RMSE: 0.2508289, L2 error: 0.0629151, Relative L2 error: 0.0378695,
+2023-07-07 19:32:13,529 - Epoch: 78 | Train Loss: 0.0006 Vali Loss: 0.0008
+
+2023-07-07 19:32:31,562 - RMSE: 0.2543102, L2 error: 0.0646737, Relative L2 error: 0.0389280,
+2023-07-07 19:32:31,567 - Epoch: 79 | Train Loss: 0.0006 Vali Loss: 0.0008
+
+2023-07-07 19:32:49,346 - RMSE: 0.2517737, L2 error: 0.0633900, Relative L2 error: 0.0381553,
+2023-07-07 19:32:49,349 - Epoch: 80 | Train Loss: 0.0006 Vali Loss: 0.0008
+
+2023-07-07 19:33:07,294 - RMSE: 0.2511869, L2 error: 0.0630949, Relative L2 error: 0.0379777,
+2023-07-07 19:33:07,303 - Epoch: 81 | Train Loss: 0.0006 Vali Loss: 0.0008
+
+2023-07-07 19:33:25,150 - RMSE: 0.2511873, L2 error: 0.0630950, Relative L2 error: 0.0379778,
+2023-07-07 19:33:25,154 - Epoch: 82 | Train Loss: 0.0006 Vali Loss: 0.0008
+
+2023-07-07 19:33:43,386 - RMSE: 0.2519719, L2 error: 0.0634898, Relative L2 error: 0.0382154,
+2023-07-07 19:33:43,389 - Epoch: 83 | Train Loss: 0.0005 Vali Loss: 0.0008
+
+2023-07-07 19:34:00,997 - RMSE: 0.2499893, L2 error: 0.0624947, Relative L2 error: 0.0376164,
+2023-07-07 19:34:01,002 - Epoch: 84 | Train Loss: 0.0005 Vali Loss: 0.0008
+
+2023-07-07 19:34:19,013 - RMSE: 0.2530131, L2 error: 0.0640156, Relative L2 error: 0.0385319,
+2023-07-07 19:34:19,016 - Epoch: 85 | Train Loss: 0.0005 Vali Loss: 0.0008
+
+2023-07-07 19:34:36,596 - RMSE: 0.2506200, L2 error: 0.0628104, Relative L2 error: 0.0378064,
+2023-07-07 19:34:36,602 - Epoch: 86 | Train Loss: 0.0005 Vali Loss: 0.0008
+
+2023-07-07 19:34:54,231 - RMSE: 0.2494207, L2 error: 0.0622107, Relative L2 error: 0.0374455,
+2023-07-07 19:34:54,235 - Epoch: 87 | Train Loss: 0.0005 Vali Loss: 0.0008
+
+2023-07-07 19:35:12,266 - RMSE: 0.2496269, L2 error: 0.0623136, Relative L2 error: 0.0375074,
+2023-07-07 19:35:12,271 - Epoch: 88 | Train Loss: 0.0005 Vali Loss: 0.0008
+
+2023-07-07 19:35:29,854 - RMSE: 0.2498713, L2 error: 0.0624357, Relative L2 error: 0.0375809,
+2023-07-07 19:35:29,857 - Epoch: 89 | Train Loss: 0.0005 Vali Loss: 0.0008
+
+2023-07-07 19:35:47,532 - RMSE: 0.2493419, L2 error: 0.0621714, Relative L2 error: 0.0374218,
+2023-07-07 19:35:47,535 - Epoch: 90 | Train Loss: 0.0005 Vali Loss: 0.0008
+
+2023-07-07 19:36:05,469 - RMSE: 0.2495673, L2 error: 0.0622838, Relative L2 error: 0.0374895,
+2023-07-07 19:36:05,473 - Epoch: 91 | Train Loss: 0.0005 Vali Loss: 0.0008
+
+2023-07-07 19:36:23,470 - RMSE: 0.2496863, L2 error: 0.0623432, Relative L2 error: 0.0375253,
+2023-07-07 19:36:23,475 - Epoch: 92 | Train Loss: 0.0005 Vali Loss: 0.0008
+
+2023-07-07 19:36:41,534 - RMSE: 0.2492275, L2 error: 0.0621143, Relative L2 error: 0.0373875,
+2023-07-07 19:36:41,538 - Epoch: 93 | Train Loss: 0.0005 Vali Loss: 0.0008
+
+2023-07-07 19:36:59,451 - RMSE: 0.2497704, L2 error: 0.0623853, Relative L2 error: 0.0375506,
+2023-07-07 19:36:59,455 - Epoch: 94 | Train Loss: 0.0005 Vali Loss: 0.0008
+
+2023-07-07 19:37:17,143 - RMSE: 0.2500096, L2 error: 0.0625048, Relative L2 error: 0.0376225,
+2023-07-07 19:37:17,146 - Epoch: 95 | Train Loss: 0.0005 Vali Loss: 0.0008
+
+2023-07-07 19:37:34,850 - RMSE: 0.2489232, L2 error: 0.0619628, Relative L2 error: 0.0372962,
+2023-07-07 19:37:34,853 - Epoch: 96 | Train Loss: 0.0005 Vali Loss: 0.0008
+
+2023-07-07 19:37:52,821 - RMSE: 0.2491333, L2 error: 0.0620674, Relative L2 error: 0.0373592,
+2023-07-07 19:37:52,824 - Epoch: 97 | Train Loss: 0.0005 Vali Loss: 0.0008
+
+2023-07-07 19:38:10,635 - RMSE: 0.2491544, L2 error: 0.0620779, Relative L2 error: 0.0373656,
+2023-07-07 19:38:10,640 - Epoch: 98 | Train Loss: 0.0005 Vali Loss: 0.0008
+
+2023-07-07 19:38:28,286 - RMSE: 0.2493592, L2 error: 0.0621800, Relative L2 error: 0.0374270,
+2023-07-07 19:38:28,291 - Epoch: 99 | Train Loss: 0.0005 Vali Loss: 0.0008
+
+2023-07-07 19:38:45,969 - RMSE: 0.2493594, L2 error: 0.0621801, Relative L2 error: 0.0374271,
+2023-07-07 19:38:45,978 - Epoch: 100 | Train Loss: 0.0005 Vali Loss: 0.0008
