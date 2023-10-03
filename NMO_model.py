@@ -147,26 +147,6 @@ class Temporal_evo(nn.Module):
 
         y = z.reshape(B, T, C, H, W)
         return y + bias
-
-
-class time_step_projection(nn.Module):
-    def __init__(self, C, input_time_step, output_time_step):
-        super(time_step_projection, self).__init__()
-        self.linerprojection = nn.Conv2d(C * input_time_step,
-                                         C * output_time_step,
-                                         kernel_size=1,
-                                         stride=1,
-                                         padding=0,
-                                         bias=False)
-        self.group = nn.GroupNorm(2, C * output_time_step)
-        self.act = nn.ReLU()
-
-    def forward(self, x):
-        x = self.linerprojection(x)
-        x = self.group(x)
-        x = self.act(x)
-        return x
-
     
 class neural_manifold_operator(nn.Module):
     def __init__(self, shape_in, hid_S = 64, id_dim=4, hid_T=256, N_S=4, N_T=8, incep_ker=[3,5,7,11], groups=8, in_time_seq_length=13, out_time_seq_length=12):
@@ -194,9 +174,6 @@ class neural_manifold_operator(nn.Module):
     def forward_(self, x_raw):
         B, T, C, H, W = x_raw.shape
         x = x_raw.view(B*T, C, H, W)
-
-
-        
         embed, skip = self.Enconv(x)
 
 
@@ -206,7 +183,6 @@ class neural_manifold_operator(nn.Module):
 
 
         z = id_dim.view(B, T, id, H_, W_)
-        
         bias = z
         bias_hid = self.hid(bias)
         bias_hid = bias_hid.reshape(B*T, id, H_, W_)
