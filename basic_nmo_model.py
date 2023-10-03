@@ -234,4 +234,4 @@ if __name__ == '__main__':
     model = neural_manifold_operator(shape_in=(10, 1, 64, 64))
     output, x_rec = model(inputs)
 
-    print(output.shape, x_rec.shape) 
+    print(output.shape, x_rec.shape)
