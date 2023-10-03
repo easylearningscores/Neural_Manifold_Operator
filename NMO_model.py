@@ -54,7 +54,6 @@ class Encoder(nn.Module):
         x = self.act0(self.norm0(self.conv0(x)))
         for conv, norm, act in zip(self.convs, self.norms, self.acts):
             x = act(norm(conv(x)))
-            
         return x
 
 class Decoder(nn.Module):
