@@ -1,5 +1,7 @@
 # Neural Manifold Operators
-
+<p align="center" width="100%">
+  <img src='figure/nmoposter.png' width="100%">
+</p>
 ## Performance comparison with 9 baseline models in all scenarios
 
 **RMSE** is used for the evaluation of these models, with a smaller RMSE value indicating greater accuracy. Since FNO is designed for single variables prediction, we only evaluate these models in single variables scenarios to ensure optimal performance of the baseline models. The underline indicates the most accurate result in baseline models. The bold font indicates the most accurate of all models. The asterisk (*) denotes GPU memory overflow (exceeding 40GB). The forward slash (/) indicates that the original model is only designed for single variable prediction.
