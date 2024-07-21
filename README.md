@@ -1,6 +1,6 @@
 # Neural Manifold Operators
 <p align="center" width="100%">
-  <img src='figure/nmoposter.png' width="100%">
+  <img src='image/nmoposter.png' width="100%">
 </p>
 ## Performance comparison with 9 baseline models in all scenarios
 
